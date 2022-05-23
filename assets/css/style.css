@@ -22597,8 +22597,8 @@ body.active-dark-mode .axil-pricing-table .pricing-body .inner ul.list-style li 
 }
 
 body.active-dark-mode .brand-list li a img {
-  -webkit-filter: contrast(0);
-          filter: contrast(0);
+  -webkit-filter: contrast(1);
+          filter: contrast(1);
 }
 
 body.active-dark-mode .bg-color-white .brand-list::before {
